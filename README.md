@@ -1,1 +1,1 @@
-Bevezetés a TEX-be.
+#Bevezetés a TEX-be.
