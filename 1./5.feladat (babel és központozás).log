@@ -1,0 +1,170 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.7)  7 SEP 2022 12:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./5.feladat (babel és központozás).tex"
+(5.feladat (babel és központozás).tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23>
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/07/20 3.78 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.
+ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count195
+\c@footnote@ch=\count196
+))
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babel
+-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/hulipsum\hulipsum.sty
+Package: hulipsum 2020/11/03 v1.1 Hungarian dummy text (Lorum ipse)
+\c@hulipsum@count=\count197
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-23 L3 programming layer (loader) 
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count199
+\l__lipsum_a_int=\count266
+\l__lipsum_b_int=\count267
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count268
+\c@Blindtext=\count269
+\c@blind@countparstart=\count270
+\blind@countxx=\count271
+\blindtext@numBlindtext=\count272
+\blind@countyy=\count273
+\c@blindlist=\count274
+\c@blindlistlevel=\count275
+\c@blindlist@level=\count276
+\blind@listitem=\count277
+\c@blind@listcount=\count278
+\c@blind@levelcount=\count279
+\blind@mathformula=\count280
+\blind@Mathformula=\count281
+\c@blind@randomcount=\count282
+\c@blind@randommax=\count283
+\c@blind@pangramcount=\count284
+\c@blind@pangrammax=\count285
+)
+(5.feladat (babel és központozás).aux)
+\openout1 = `"5.feladat (babel és központozás).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+
+LaTeX Warning: Please use \usepackage{t1enc} with
+               \usepackage[magyar]{babel}, to get accented chars hyphenated.
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/la\babel
+-latin.tex
+Package babel Info: Importing basic data for latin
+(babel)             from babel-la.ini. Reported on input line 9.
+) [1
+
+
+{C:/Users/drig6/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (5.feladat (
+babel és központozás).aux) ) 
+Here is how much of TeX's memory you used:
+ 3350 strings out of 477843
+ 66100 string characters out of 2823600
+ 634944 words of memory out of 3000000
+ 22295 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,5n,77p,1900b,353s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/drig6/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "5.feladat (babel és központozás).pdf" (1 page, 22831 byte
+s).
+PDF statistics:
+ 11 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
