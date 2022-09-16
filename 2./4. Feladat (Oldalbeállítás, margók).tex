@@ -1,0 +1,87 @@
+\documentclass[twoside]{article}
+\usepackage{hulipsum}
+\usepackage{blindtext}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{geometry}
+\geometry{left=5cm,right=5cm,top=3cm,bottom=3cm}
+\geometry{bindingoffset=1cm}
+\geometry{marginparwidth=3cm}
+\geometry{marginparsep=0.5cm}
+
+
+
+
+\begin{document}
+
+\title{2.óra}
+\author{Drig Dávid}
+\date{\today}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\maketitle
+
+
+
+\begin{abstract}
+\hulipsum[1]
+\blindtext[1]
+\footnote{szöveg}
+\end{abstract}
+
+
+\setcounter{tocdepth}{5} 
+\tableofcontents
+\pagenumbering{roman}
+
+\clearpage
+
+\setcounter{secnumdepth}{5}
+
+\section{Első section}\footnote{szöveg}
+\pagenumbering{arabic}
+\subsubsection{subsub}
+
+\subsection{Subsub}
+\hulipsum
+\subsection{Subsubsub}
+\hulipsum
+
+\section[Rövid név]{Hosszú név}
+\marginpar{megjegy}
+\subsection{Subsection}
+\subsubsection{Subsubsection}
+\paragraph{Paragraph}
+\subparagraph{Subparagraph}
+
+\appendix
+\section{Első Section}
+\subsection{Első Subsection}
+\quote{\hulipsum[2]}
+\section{Második Section}
+\marginpar{ez egy megjegyzés}
+\subsection{Második Subsection}
+\quotation{\blindtext[2]}
+\clearpage
+\begin{verse}
+Talpra, magyar, hí a haza!
+Itt az idő, most vagy soha!
+Rabok legyünk, vagy szabadok?
+Ez a kérdés, válasszatok! -
+A magyarok istenére
+Esküszünk,
+Esküszünk, hogy rabok tovább
+Nem leszünk!
+
+Rabok voltunk mostanáig,
+Kárhozottak ősapáink,
+Kik szabadon éltek-haltak,
+Szolgaföldben nem nyughatnak.
+A magyarok istenére
+Esküszünk,
+Esküszünk, hogy rabok tovább
+Nem leszünk!
+
+
+\end{verse}
+
+\end{document}

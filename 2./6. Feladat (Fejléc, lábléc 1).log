@@ -1,0 +1,1945 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.7)  16 SEP 2022 12:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).tex"
+(6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23>
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/hulipsum\hulipsum.sty
+Package: hulipsum 2020/11/03 v1.1 Hungarian dummy text (Lorum ipse)
+\c@hulipsum@count=\count193
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count194
+\c@Blindtext=\count195
+\c@blind@countparstart=\count196
+\blind@countxx=\count197
+\blindtext@numBlindtext=\count198
+\blind@countyy=\count199
+\c@blindlist=\count266
+\c@blindlistlevel=\count267
+\c@blindlist@level=\count268
+\blind@listitem=\count269
+\c@blind@listcount=\count270
+\c@blind@levelcount=\count271
+\blind@mathformula=\count272
+\blind@Mathformula=\count273
+\c@blind@randomcount=\count274
+\c@blind@randommax=\count275
+\c@blind@pangramcount=\count276
+\c@blind@pangrammax=\count277
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/07/20 3.78 The Babel package
+\babel@savecnt=\count278
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count279
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.
+ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count280
+\c@footnote@ch=\count281
+))
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babel
+-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box51
+) (6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).aux)
+\openout1 = `"6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(142.26378pt, 301.3147pt, 142.26378pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=301.3147pt
+* \textheight=624.25346pt
+* \oddsidemargin=98.44653pt
+* \evensidemargin=69.99379pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.35826pt
+* \marginparsep=14.22636pt
+* \columnsep=56.9055pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\drig6\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+
+
+Package blindtext Warning: magyar not defined, using English instead.
+(blindtext)                 on input line 28.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 29.
+
+Underfull \hbox (badness 1748) in paragraph at lines 27--31
+\T1/cmr/m/n/10 ka-pá-rá-sát az iz-ma mi-gál-
+ []
+
+(6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).toc
+Overfull \hbox (25.03723pt too wide) in paragraph at lines 7--7
+ [][] []\T1/cmr/m/n/10 Subsubsection []  
+ []
+
+
+Overfull \hbox (49.72571pt too wide) in paragraph at lines 8--8
+ [][] []\T1/cmr/m/n/10 Paragraph []  
+ []
+
+
+Overfull \hbox (104.40675pt too wide) in paragraph at lines 9--9
+ [][] []\T1/cmr/m/n/10 Subparagraph []  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+ [][] []\T1/cmr/m/n/10 Második 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `"6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).toc"'.
+
+ [1{C:/Users/drig6/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 1748) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ka-pá-rá-sát az iz-ma mi-gál-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 50--50
+[]\T1/cmr/m/n/10 Az üt-les ön-cé-je ese-tén
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ege-z® plást köz-vet-len adó
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 50--50
+\T1/cmr/m/n/10 és fé-s® eve-z® amus nem
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 50--50
+\T1/cmr/m/n/10 báj-da-la-nak el, ha for-ma-i-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 50--50
+\T1/cmr/m/n/10 a gya-ro-kok edé-se. Je-l®-
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zá-suk-ra, meg saj-gás is a
+ []
+
+[1
+
+]
+Underfull \hbox (badness 2884) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kok, anya-tos zi-mik vonk
+ []
+
+
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 1748) in paragraph at lines 53--53
+\T1/cmr/m/n/10 ka-pá-rá-sát az iz-ma mi-gál-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 53--53
+[]\T1/cmr/m/n/10 Az üt-les ön-cé-je ese-tén
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 53--53
+\T1/cmr/m/n/10 ege-z® plást köz-vet-len adó
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 53--53
+\T1/cmr/m/n/10 és fé-s® eve-z® amus nem
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 53--53
+\T1/cmr/m/n/10 báj-da-la-nak el, ha for-ma-i-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 53--53
+\T1/cmr/m/n/10 a gya-ro-kok edé-se. Je-l®-
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 53--53
+\T1/cmr/m/n/10 zá-suk-ra, meg saj-gás is a
+ []
+
+[3]
+Underfull \hbox (badness 2884) in paragraph at lines 53--53
+\T1/cmr/m/n/10 kok, anya-tos zi-mik vonk
+ []
+
+
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+ \T1/cmr/bx/n/10 2.1.1.1.1. Sub-pa-ra-gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 te több mint
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 64--65
+\T1/cmr/m/n/10 en-ség gé-szet reg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 net® em-tes-ke-dés
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 64--65
+\T1/cmr/m/n/10 szom-bó-dik, en-nek
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 64--65
+\T1/cmr/m/n/10 ga-tos le-l®-lés ehe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 és ko-zá-sok-ban,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 gaz-sá-gos mo-hos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 föl-csö-kön aro-sít
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 föl-de-ren din-gos
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 64--65
+\T1/cmr/m/n/10 em-tes-ke-dés-nek es-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 vo-lás) so-rán vi-
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 64--65
+\T1/cmr/m/n/10 szont men-t® al-va
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 64--65
+\T1/cmr/m/n/10 ra-dó-cot kell zsib-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 64--65
+\T1/cmr/m/n/10 ro-dás ke-d® men-
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 64--65
+\T1/cmr/m/n/10 di-á-já-val te-te-ke-z®.
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 64--65
+\T1/cmr/m/n/10 A ko-lan-gan sa-lat
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 64--65
+\T1/cmr/m/n/10 gyü-ge a ságó és
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 64--65
+\T1/cmr/m/n/10 visz-ti-kus és fe-res
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 ahol a duz-zadt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 cisz-ti kan-ta-tok
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/cmr/m/n/10 bo-ros köny-ve-dést
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 64--65
+\T1/cmr/m/n/10 a kí-t® for-nyé-kos
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 64--65
+\T1/cmr/m/n/10 vi-dem 55 to-ru-ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/cmr/bx/n/12 Második
+ []
+
+
+Package blindtext Warning: magyar not defined, using English instead.
+(blindtext)                 on input line 68.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Lorem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 amet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 con-sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 te-tu-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 adi-pis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Etiam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lo-bor-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 fa-ci-li-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sem.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nul-lam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nec mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pharet-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sol-li-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tu-din.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 im-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 di-et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mi nec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 an-te.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Don-ec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ul-lam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 cor-per,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 so-da-les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mo-do,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ve-lit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ult-ri-ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 dign-is-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pla-ce-rat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pe-de.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Vi-va-mus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nunc,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mo-les-tie
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ci-es vel,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sem-per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ti-tor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 in sa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pi-en.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Lor-em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 amet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 con-sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 te-tu-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 adi-pis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Du-is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 fring-il-la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tris-ti-que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ne-que.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Sed in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ter-dum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 me-tus.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pel-len-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tes-que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pla-ce-rat.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 rut-rum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 au-gue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 a leo.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Mor-bi
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sed elit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 an-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lo-bor-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sol-li-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tu-din.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 blan-dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 blan-dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mau-ris.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tel-lus,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ali-qu-et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ali-qu-am,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 luc-tus
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 68--69
+\T1/cmr/m/n/10 a, eges-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tas a,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tur-pis.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Mau-ris
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 la-ci-nia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lor-em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 quis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ur-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 dic-tum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tur-pis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ac-cum-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 san
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sem-per.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Lor-em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 amet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 con-sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 te-tu-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 adi-pis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Etiam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lo-bor-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 fa-ci-li-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sem.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nul-lam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nec mi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pharet-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sol-li-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tu-din.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 im-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 di-et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mi nec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 an-te.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Don-ec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ul-lam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 cor-per,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 so-da-les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mo-do,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ve-lit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ult-ri-ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 dign-is-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pla-ce-rat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pe-de.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Vi-va-mus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 nunc,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mo-les-tie
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ci-es vel,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sem-per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ti-tor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 in sa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pi-en.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Lor-em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 amet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 con-sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 te-tu-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 adi-pis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Du-is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 fring-il-la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tris-ti-que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ne-que.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Sed in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ter-dum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 me-tus.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pel-len-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tes-que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 pla-ce-rat.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 rut-rum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 au-gue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 a leo.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Mor-bi
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sed elit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 an-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lo-bor-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 sol-li-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tu-din.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 blan-dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 blan-dit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 mau-ris.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Pra-esent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lec-tus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tel-lus,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ali-qu-et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ali-qu-am,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 luc-tus
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 68--69
+\T1/cmr/m/n/10 a, eges-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tas a,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tur-pis.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Mau-ris
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 la-ci-nia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 lor-em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ip-sum.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 Nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 quis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ur-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 dic-tum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 tur-pis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 ac-cum-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/cmr/m/n/10 san
+ []
+
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 71--79
+[]
+ []
+
+
+Overfull \hbox (45.60074pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Talpra,
+ []
+
+
+Overfull \hbox (30.85434pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (35.88089pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 gyar,
+ []
+
+
+Overfull \hbox (22.52304pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 hí
+ []
+
+
+Overfull \hbox (19.19052pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (28.07724pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ha-
+ []
+
+
+Overfull \hbox (26.41098pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 za!
+ []
+
+
+Overfull \hbox (25.57785pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Itt
+ []
+
+
+Overfull \hbox (23.63388pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 az
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 id®,
+ []
+
+
+Overfull \hbox (35.35324pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 most
+ []
+
+
+Overfull \hbox (34.18686pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 vagy
+ []
+
+
+Overfull \hbox (26.46652pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 so-
+ []
+
+
+Overfull \hbox (27.52182pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ha!
+ []
+
+
+Overfull \hbox (29.88235pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Ra-
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 bok
+ []
+
+
+Overfull \hbox (24.74472pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 le-
+ []
+
+
+Overfull \hbox (43.629pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 gyünk,
+ []
+
+
+Overfull \hbox (34.18686pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 vagy
+ []
+
+
+Overfull \hbox (30.90988pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 sza-
+ []
+
+
+Overfull \hbox (28.07724pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ba-
+ []
+
+
+Overfull \hbox (34.74228pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 dok?
+ []
+
+
+Overfull \hbox (25.439pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Ez
+ []
+
+
+Overfull \hbox (19.19052pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 a
+ []
+
+
+Overfull \hbox (30.88211pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 kér-
+ []
+
+
+Overfull \hbox (30.90988pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 dés,
+ []
+
+
+Overfull \hbox (27.24411pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 vá-
+ []
+
+
+Overfull \hbox (42.62924pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 lassza-
+ []
+
+
+Overfull \hbox (31.13205pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 tok!
+ []
+
+
+Overfull \hbox (17.52426pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 -
+ []
+
+
+Overfull \hbox (14.19174pt too wide) in paragraph at lines 71--79
+
+ []
+
+
+Overfull \hbox (21.68991pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 A
+ []
+
+
+Overfull \hbox (30.85434pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (32.5206pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 gya-
+ []
+
+
+Overfull \hbox (28.38272pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 rok
+ []
+
+
+Overfull \hbox (24.24484pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (25.85556pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 te-
+ []
+
+
+Overfull \hbox (27.52182pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 né-
+ []
+
+
+Overfull \hbox (22.55081pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 re
+ []
+
+
+Overfull \hbox (28.27164pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Es-
+ []
+
+
+Overfull \hbox (28.35495pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 kü-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 szünk,
+ []
+
+
+Overfull \hbox (28.27164pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Es-
+ []
+
+
+Overfull \hbox (28.35495pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 kü-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 szünk,
+ []
+
+
+Overfull \hbox (35.01999pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 hogy
+ []
+
+
+Overfull \hbox (26.43875pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 bok
+ []
+
+
+Overfull \hbox (26.41098pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (35.01999pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 vább
+ []
+
+
+Overfull \hbox (34.46457pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 Nem
+ []
+
+
+Overfull \hbox (24.74472pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 le-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 71--79
+\T1/cmr/m/n/10 szünk! 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (27.66068pt too wide) in paragraph at lines 80--88
+[]\T1/cmr/m/n/10 Rabok
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 vol-
+ []
+
+
+Overfull \hbox (34.46457pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 tunk
+ []
+
+
+Overfull \hbox (34.79782pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 mos-
+ []
+
+
+Overfull \hbox (26.41098pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ta-
+ []
+
+
+Overfull \hbox (28.07724pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ná-
+ []
+
+
+Overfull \hbox (24.74472pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ig,
+ []
+
+
+Overfull \hbox (34.21463pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Kár-
+ []
+
+
+Overfull \hbox (28.07724pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ho-
+ []
+
+
+Overfull \hbox (30.85434pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 zot-
+ []
+
+
+Overfull \hbox (28.35495pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 tak
+ []
+
+
+Overfull \hbox (26.46652pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ®s-
+ []
+
+
+Overfull \hbox (33.07602pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 apá-
+ []
+
+
+Overfull \hbox (30.57663pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ink,
+ []
+
+
+Overfull \hbox (30.02121pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Kik
+ []
+
+
+Overfull \hbox (30.90988pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 sza-
+ []
+
+
+Overfull \hbox (28.07724pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ba-
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 don
+ []
+
+
+Overfull \hbox (38.35251pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 éltek-
+ []
+
+
+Overfull \hbox (44.46213pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 haltak,
+ []
+
+
+Overfull \hbox (35.2977pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Szol-
+ []
+
+
+Overfull \hbox (27.52182pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ga-
+ []
+
+
+Overfull \hbox (33.90915pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 föld-
+ []
+
+
+Overfull \hbox (30.02121pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ben
+ []
+
+
+Overfull \hbox (32.5206pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 nem
+ []
+
+
+Overfull \hbox (38.63022pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 nyug-
+ []
+
+
+Overfull \hbox (31.96518pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 hat-
+ []
+
+
+Overfull \hbox (32.79831pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 nak.
+ []
+
+
+Overfull \hbox (21.68991pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 A
+ []
+
+
+Overfull \hbox (30.85434pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Overfull \hbox (32.5206pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 gya-
+ []
+
+
+Overfull \hbox (28.38272pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 rok
+ []
+
+
+Overfull \hbox (24.24484pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 is-
+ []
+
+
+Overfull \hbox (25.85556pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 te-
+ []
+
+
+Overfull \hbox (27.52182pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 né-
+ []
+
+
+Overfull \hbox (22.55081pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 re
+ []
+
+
+Overfull \hbox (28.27164pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Es-
+ []
+
+
+Overfull \hbox (28.35495pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 kü-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 szünk,
+ []
+
+
+Overfull \hbox (28.27164pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Es-
+ []
+
+
+Overfull \hbox (28.35495pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 kü-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 szünk,
+ []
+
+
+Overfull \hbox (35.01999pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 hogy
+ []
+
+
+Overfull \hbox (26.43875pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (30.29892pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 bok
+ []
+
+
+Overfull \hbox (26.41098pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (35.01999pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 vább
+ []
+
+
+Overfull \hbox (34.46457pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 Nem
+ []
+
+
+Overfull \hbox (24.74472pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 le-
+ []
+
+
+Overfull \hbox (41.74057pt too wide) in paragraph at lines 80--88
+\T1/cmr/m/n/10 szünk! 
+ []
+
+[8
+
+] (6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).aux) ) 
+Here is how much of TeX's memory you used:
+ 3454 strings out of 477843
+ 63491 string characters out of 2823600
+ 551386 words of memory out of 3000000
+ 22384 multiletter control sequences out of 15000+600000
+ 481181 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,1900b,381s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\drig6\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\drig6\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\drig6\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\drig6\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\dr
+ig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Us
+ers\drig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> 
+<C:\Users\drig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm100
+0.pk> <C:\Users\drig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1440.pk> <C:\Users\drig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecrm1200.pk> <C:\Users\drig6\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecrm1728.pk>
+Output written on "6. Feladat (FejlÃ©c, lÃ¡blÃ©c 1).pdf" (9 pages, 100410 bytes
+).
+PDF statistics:
+ 285 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
