@@ -1,0 +1,13 @@
+\select@language {magyar} \contentsline {section}{\numberline {1}Első section}{1}{}%
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.0.1}subsub}{1}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1}Subsub}{1}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {1.2}Subsubsub}{3}{}%
+\select@language {magyar} \contentsline {section}{\numberline {2}Rövid név}{5}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {2.1}Subsection}{5}{}%
+\select@language {magyar} \contentsline {subsubsection}{\numberline {2.1.1}Subsubsection}{5}{}%
+\select@language {magyar} \contentsline {paragraph}{\numberline {2.1.1.1}Paragraph}{5}{}%
+\select@language {magyar} \contentsline {subparagraph}{\numberline {.0.1.1.1}Subparagraph}{5}{}%
+\select@language {magyar} \contentsline {section}{\numberline {A}Első Section}{6}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {A.1}Első Subsection}{6}{}%
+\select@language {magyar} \contentsline {section}{\numberline {B}Második Section}{6}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {B.1}Második Subsection}{6}{}%

@@ -1,0 +1,142 @@
+\documentclass[12pt,twoside]{article}
+\def\MakeUppercaseUnsupportedInPdfStrings{\scshape}
+\usepackage{hulipsum}
+\usepackage{blindtext}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage[colorlinks,linkcolor=blue, urlcolor=purple,citecolor=red]{hyperref}
+\usepackage{hyperref}
+\hypersetup{linktoc=all}
+
+
+
+
+
+\geometry{left=5cm,right=5cm,top=3cm,bottom=3cm}
+\geometry{bindingoffset=1cm}
+\geometry{marginparwidth=3cm}
+\geometry{marginparsep=0.5cm}
+\geometry{columnsep=2cm}
+
+
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0pt}\fancyhf{}\fancyfoot[LE,RO]{\thepage}}
+\setlength{\headheight}{52pt}
+
+
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyhead[LE,RO]{\thepage}
+\fancyfoot[C]{Miskolci Egyetem}
+\fancyhead[LO]{\leftmark}
+\fancyhead[RE]{\rightmark}
+
+
+
+
+
+
+
+
+
+
+
+
+\title{2.óra}
+\author{Drig Dávid}
+\date{\today}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\maketitle
+
+
+
+\begin{abstract}
+\hulipsum[1]
+\blindtext[1]
+\footnote{szöveg}
+\end{abstract}
+
+
+\setcounter{tocdepth}{5} 
+\tableofcontents
+\pagenumbering{roman}
+
+\clearpage
+
+\setcounter{secnumdepth}{5}
+
+\section{Első section}\footnote{szöveg}
+\pagenumbering{arabic}
+\autoref{s:elso}
+
+\ref{s:masodik}
+
+\ref{s:harmadik}
+
+\autopageref{s:elso}
+
+\pageref{s:masodik}
+
+\pageref{s:harmadik}
+
+\ref{s:szamozatlan}
+
+\pageref{s:szamozatlan}
+
+\subsubsection{subsub}
+\subsection{Subsub}
+\hulipsum
+\phantomsection\label{s:elso}
+\subsection{Subsubsub}
+\hulipsum
+
+\section[Rövid név]{Hosszú név}
+\marginpar{megjegy}
+\subsection{Subsection}
+\label{s:masodik}
+\subsubsection{Subsubsection}
+\paragraph{Paragraph}
+\section*{Számozatlan section}
+\label{s:szamozatlan}
+\subparagraph{Subparagraph}
+
+\appendix
+\section{Első Section}
+\subsection{Első Subsection}
+\quote{\hulipsum[2]}
+\label{s:harmadik}
+\section{Második Section}
+\marginpar{ez egy megjegyzés}
+\subsection{Második Subsection}
+\quotation{\blindtext[2]}
+\clearpage
+\begin{verse}
+Talpra, magyar, hí a haza!
+Itt az idő, most vagy soha!
+Rabok legyünk, vagy szabadok?
+Ez a kérdés, válasszatok! -
+A magyarok istenére
+Esküszünk,
+Esküszünk, hogy rabok tovább
+Nem leszünk!
+
+Rabok voltunk mostanáig,
+Kárhozottak ősapáink,
+Kik szabadon éltek-haltak,
+Szolgaföldben nem nyughatnak.
+A magyarok istenére
+Esküszünk,
+Esküszünk, hogy rabok tovább
+Nem leszünk!
+
+
+\end{verse}
+\subsection{Második subsection}
+\href{https://www.uni-miskolc.hu/~viktoria.vadon/}{hivatkozás link}
+
+\end{document}
