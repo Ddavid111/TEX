@@ -1,0 +1,12 @@
+This is makeindex, version 2.16 [MiKTeX 22.10].
+Scanning input file 5.feladat.idx....done (12 entries accepted, 0 rejected).
+Sorting entries....done (55 comparisons).
+Generating output file 5.feladat.ind....
+## Warning (input = 5.feladat.idx, line = 5; output = 5.feladat.ind, line = 12):
+   -- Unmatched range closing operator ).
+
+## Warning (input = 5.feladat.idx, line = 4; output = 5.feladat.ind, line = 13):
+   -- Unmatched range opening operator (.
+done (38 lines written, 2 warnings).
+Output written in 5.feladat.ind.
+Transcript written in 5.feladat.ilg.

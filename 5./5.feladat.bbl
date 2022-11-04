@@ -1,0 +1,169 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{abrharber03}{unpublished}{}
+    \name{author}{3}{}{%
+      {{hash=APW}{%
+         family={Abrahams},
+         familyi={A\bibinitperiod},
+         given={Paul\bibnamedelima W.},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HKA}{%
+         family={Hargreaves},
+         familyi={H\bibinitperiod},
+         given={Kathryn\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Berry},
+         familyi={B\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APWHKABK1}
+    \strng{fullhash}{APWHKABK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{{\TeX} for the Impatient}
+    \verb{url}
+    \verb http://tug.ctan.org/info/impatient/book.pdf
+    \endverb
+    \field{year}{2003}
+  \endentry
+
+  \entry{bujfaz}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BG}{%
+         family={BujdosĂł},
+         familyi={B\bibinitperiod},
+         given={GyĂśngyi},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Fazekas},
+         familyi={F\bibinitperiod},
+         given={Attila},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Tertia KiadĂł}%
+    }
+    \strng{namehash}{BGFA1}
+    \strng{fullhash}{BGFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{\TeX} kezdĹlĂŠpĂŠsek}
+  \endentry
+
+  \entry{g4gbin}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={GeeksforGeeks},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{BinĂĄris keresĂŠs ĂŠs rendezĂŠs Python-nal}
+    \verb{url}
+    \verb https://www.geeksforgeeks.org/python-program-for-binary-insertion-sor
+    \verb t/
+    \endverb
+    \field{month}{10}
+    \field{year}{2022}
+  \endentry
+
+  \entry{knuth84}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=KDE}{%
+         family={Knuth},
+         familyi={K\bibinitperiod},
+         given={Donald\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KDE1}
+    \strng{fullhash}{KDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The {\TeX}book}
+    \verb{url}
+    \verb https://ctan.org/pkg/texbook
+    \endverb
+  \endentry
+
+  \entry{lamport94}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LL}{%
+         family={Lamport},
+         familyi={L\bibinitperiod},
+         given={Leslie},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison Wesley, Massachusetts}%
+    }
+    \strng{namehash}{LL1}
+    \strng{fullhash}{LL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{edition}{2}
+    \field{title}{{\LaTeX}: a document preparation system}
+    \field{year}{1994}
+  \endentry
+
+  \entry{tomacs21}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=TT}{%
+         family={TĂłmĂĄcs},
+         familyi={T\bibinitperiod},
+         given={Tibor},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TT1}
+    \strng{fullhash}{TT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{{\LaTeX}}
+    \verb{url}
+    \verb https://tomacstibor.uni-eszterhazy.hu/tananyagok/LaTeX.pdf
+    \endverb
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput
