@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{ifthen}
+\usepackage{pgffor}
+\usepackage{multicol}
+
+
+\begin{document}
+\newcolumntype{h}[2]{>{%
+\ifthenelse{%
+\isodd{\value{rownum}}}%
+{%
+\cellcolor{#1}\color{#2}}%
+{\cellcolor{#2}\color{#1}%
+}%
+}c}%
+
+\begin{table}
+\rowcolors[]{2}{blue!20}{yellow!20}
+\begin{tabular}{h{white}{black} h{white}{black} h{white}{black}}
+a & b & c \\
+a & b & c \\
+a & b & c \\
+a & b & c \\
+a & b & c \\
+a & b & c \\
+\end{tabular}
+\end{table}
+
+\end{document}
