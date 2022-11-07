@@ -1,0 +1,179 @@
+\documentclass[twocolumn]{report}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\frenchspacing
+\usepackage{hulipsum}
+\usepackage{fancyhdr}
+
+\fancyhead[R]{\thepage}
+\fancyhead[L]{\nouppercase{\leftmark}}
+\fancyfoot[C]{X csoport}
+
+\fancypagestyle{plain}{\fancyhf{} 
+\fancyhead[R]{\thepage}}
+
+\usepackage{array} 
+\usepackage[table]{xcolor} 
+\usepackage{multirow} 
+
+\usepackage{amsmath} 
+\usepackage{mathtools} 
+\usepackage{amsfonts} 
+\usepackage{amsthm}
+\theoremstyle{definition} 
+\newtheorem{tet}{Tétel}
+\newtheorem{defin}{Definíció}
+
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\floatname{algorithm}{Algoritmus} 
+
+
+%%programozás
+%% \centerpair parancs, 2 kötelező argumentummal
+\newcommand{\centerpair}[2]{%
+\par\noindent% %%egész sor kell nekünk
+\begin{minipage}[t]{0.48\linewidth}% %%bal oldali doboz, fél* oldalszélesség, függőlegesen felülre igazítva
+%%kevesebb, mint fél, hogy középen ne folyjon össze a szöveg!
+\begin{flushright}% %%jobbra zárás
+#1% %%argumentum beillesztése
+\end{flushright}%
+\end{minipage}%
+\hfill\vline\hfill% %% középvonal és az extra hely kitöltése körülötte középen -- enélkül is teljesítettük a feladatot
+\begin{minipage}[t]{0.48\linewidth}%
+\begin{flushleft}% %%balra zárás -- fölösleges, mert alapértelmezett
+#2%
+\end{flushleft}%
+\end{minipage}%
+\par}
+
+\author{Drig Dávid EZ3YRC}
+\title{Zárthelyi dolgozat \\ \Large X csoport}
+\date{\today}
+
+
+
+
+\begin{document}
+
+\pagestyle{fancy}
+
+
+\maketitle
+
+
+\chapter{Oldalbeállítás}
+
+\section{Első section}
+\hulipsum[1-12]
+
+\section{Második section}
+\hulipsum[13-24]
+
+
+\chapter{Táblázat}
+
+\hulipsum
+\begin{table*}
+\begin{center}
+\caption{Egy vállalati kimutatás}
+\vspace{2em}
+\begin{tabular}{c|c|>{\columncolor{green!20}}r>{\columncolor{red!20}}r>{\columncolor{yellow!20}}r}
+
+év & ágazat & bevétel & kiadás & nettó bevétel\\ \hline
+\multirow{4}{2em}{2020} & marketing & xx & xx & xx\\
+ & humán erőforrás & \multicolumn{3}{c}{N/A}\\
+ & logisztika & xx & xx & xx\\
+ & gyártás & xx & xx & xx\\ \hline
+\multirow{4}{2em}{2021} & marketing & \cellcolor{white}N/A & xx & \cellcolor{white}N/A\\
+ & humán erőforrás & xx & xx & xx\\
+ & logisztika & xx & xx & xx\\
+ & gyártás & xx & \multicolumn{2}{c}{N/A}\\ 
+
+
+\end{tabular}
+\end{center}
+\end{table*}
+\hulipsum
+
+\chapter{Matematika}
+
+\begin{defin}[Mátrix szorzás]
+Legyenek $m,\textcolor{red}{n},r \in \mathbb{Z}^+, A \in \mathbb{R}^{m \times {\textcolor{red}{n}}}$, és $B \in \mathbb{R}^{{\textcolor{red}{n}} \times  r}$.
+Bontsuk fel $A$-t sorvektoraival, $B$-t pedig oszlopvektoraival:
+\end{defin}
+
+\begin{equation}
+A=\begin{pmatrix}
+ & a_1^T & \\
+\cellcolor{red!30} & \cellcolor{red!30}{a_2^T} & \cellcolor{red!30}\\
+ & \vdots & \\
+ & a_m^T &
+\end{pmatrix}\text{,}
+\quad
+B=\begin{pmatrix}
+ & \cellcolor{blue!30}\\
+ b_1 & {\cellcolor{blue!30}{b_2}} & \cdots & b_r\\
+ & \cellcolor{blue!30}\\
+ \end{pmatrix}\text{.}
+\end{equation}
+
+Mind $a_i$, mind $b_j \in \mathbb{R}^{\textcolor{red}{n}}$, így az $a_i^Tb_j$ skalár szorzat létezik. Az $A \cdot B$ mátrix szorzatot a következőképpen definiáljuk:
+
+\begin{equation}
+A \cdot B :=
+\begin{pmatrix}
+a_1^Tb_1 & \cellcolor{blue!20}{a_1^Tb_2} & \cdots & a_1^Tb_r\\
+\rowcolor{red!20}
+a_2^Tb_1 & \cellcolor{blue!20}{a_2^Tb_2} & \cdots & a_2^Tb_r\\
+\vdots & \cellcolor{blue!20}{\vdots} & \ddots & \vdots\\
+a_m^Tb_1 & \cellcolor{blue!20}{a_m^Tb_2} & \cdots & a_m^Tb_r\\
+\end{pmatrix} \in \mathbb{R}^{m \times r}
+\end{equation}
+
+\begin{tet}[Mátrix szorzás tulajdonságai]
+A mátrix szorzás asszociatív, de nem kommutatív művelet.
+\end{tet}
+
+\begin{tet}[Mátrix szorzat determinánsa]
+Ha $A, b \in \mathbb{R}^{n \times n} $ négyzetes mátrixok, akkor
+\end{tet}
+
+\begin{equation}
+\det(A \cdot B)=\det(A) \cdot \det(B)\text{.}
+\end{equation}
+
+\chapter{Pszeudokód}
+
+\hulipsum
+\begin{algorithm}
+\caption{Lineáris keresés}
+\begin{algorithmic}[3]
+\Procedure {linsearch}{A,ertek,@index}
+\Require A tömb, ertek a keresett érték
+\Ensure index (az első) A-beli index, hogy $A_i$ =ertek, vagy érvénytelen (0)
+\State i $\gets$ 1
+\While{$A_i \neq$ ertek \textbf{and} i < Hossz[A]}
+\State \Call{inc}i
+\EndWhile
+\If{i < Hossz[A]}
+\State index $\gets$ i
+\Else
+\State index $\gets$ 0
+\EndIf
+\State \Return index
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+\hulipsum
+
+\chapter{Programozás}
+
+szöveg előtte... nem teszünk új bekezdést, hogy lássuk, a parancs gondoskodik róla!
+\centerpair{bal}{jobb}
+szintén új bekezdés nélkül írunk, de automatikusan új bekezdésben (kéne) lennünk
+
+\centerpair{na még egyszer használjuk...}{teszteljük a parancsunkat egy kicsivel hosszabb szövegekkel is\par ez egy új bekezdés. láthatjuk a tördelést és a felülre igazítást is!}
+
+
+\end{document}
